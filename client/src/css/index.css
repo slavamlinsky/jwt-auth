@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+h1{
+    color: cornflowerblue;
+    font-size: 2em;
+    margin: 1em 0;
+}
+
+h3{
+    color: rgb(5, 117, 99);
+    font-size: 1.2em;
+    margin: 1em 0;
+    text-align: center;
+}
+input{
+    /* padding: 3px 10px; */
+    /* margin: 0.5em 0; */
+    font-size:  14px;
+}
+
+button{
+    padding: 3px 10px;
+    font-size:  16px;
+    /* margin-bottom: 1em; */
+} 
